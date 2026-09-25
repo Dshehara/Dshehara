@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Dilmi Shehara 👋
 
-<!--
-**Dshehara/Dshehara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Third-year Software Engineering undergraduate at NSBM Green University, Sri Lanka.
 
-Here are some ideas to get you started:
+💻 Interested in software development, web technologies, and building practical applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    Currently improving my programming, problem-solving, and software engineering skills.
+
+🤝 Interested in connecting with developers, learning from others, and collaborating on technology-related projects.
+
+### Connect with me
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/dilmi-shehara-rathnayake/)
+
+### Projects
+Check out my repositories to see my academic and personal projects.
